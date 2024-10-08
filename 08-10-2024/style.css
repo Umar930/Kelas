@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.warna {
+    background-color: yellow;
+}
+
+@media (min-width: 760px;) {
+    form {
+        display: flex;
+        gap: 20px;
+    }
+
+    button {
+        margin-top: 60px;
+    }
+}
